@@ -1,0 +1,34 @@
+#professors
+John Smith
+3
+Introduction to Programming
+C#
+Linux
+#end
+#professors
+Bogdan Bilenko
+3
+C++
+Mathematic analitic
+lineal algebra
+#end
+#endprofessors
+#students
+TK-41
+3
+C#
+7
+C++
+6
+Linux
+5
+#end
+#students
+TTP-14
+2
+Mathematic analitic
+7
+C++
+5
+#end
+#endstudents

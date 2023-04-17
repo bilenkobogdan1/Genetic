@@ -1,0 +1,14 @@
+#professors 
+John Smith
+2
+Introduction to Programming
+C#
+#end
+#professors 
+Bogdan Bilenko
+3
+C++
+Mathematic analitic
+lineal algebra
+#end
+#endprofessors
